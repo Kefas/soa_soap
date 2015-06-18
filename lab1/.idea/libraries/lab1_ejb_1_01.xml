@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lab1-ejb-1.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lab1-ejb/target/lab1-ejb-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
